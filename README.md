@@ -1,2 +1,2 @@
-# textos-de-la-c-tedra
-Bienvenidos, les deseamos una excelente cursada y aprendizaje.
+# TEXTOS DE LA CATEDRA
+BIENVENIDOS: LES DESEAMOS QUE TENGAN UNA EXCELENTE CURSADA Y APRENDIZAJE.
